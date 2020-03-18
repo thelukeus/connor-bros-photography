@@ -1,0 +1,54 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Dancing Script', sans-serif;
+  background: url(https://images.pexels.com/photos/176851/pexels-photo-176851.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+	font-size:4rem;
+	color:#BE8D26;
+  margin-left:10px;
+}
+
+hr {
+  border-color:#BE8D26;
+  border-width: 1px;
+  
+}
+
+p{
+
+	font-size: 2rem;
+	color: #BEA526;
+}
+
+nav {
+  font-size:2rem;
+}
+
+img {
+  width:300px;
+  height:400px;
+  margin-left:10px;
+  float: left;
+}
+
+h2{
+  color: #BE8D26;
+  border-width:2px;
+  border-color:#BE8D26;
+}
+
+h4{
+  color:#BE8D26;
+}
+
+p {
+  text-align:center;
+}
